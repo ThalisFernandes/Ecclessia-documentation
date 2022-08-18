@@ -17,5 +17,5 @@ Repositorio para guardar a documentação das partes de implementação do eccle
 
 
 
-# Criado por: 
-[ThalisFernandes](https://github.com/ThalisFernandes)
+Criado por: 
+- [ThalisFernandes](https://github.com/ThalisFernandes)
